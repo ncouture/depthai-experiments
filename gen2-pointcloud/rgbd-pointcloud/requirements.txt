@@ -1,4 +1,4 @@
-numpy==1.21.5
+numpy==2.5.4
 open3d==0.14.1
 depthai==2.22.0.0
-opencv-python==4.7.0
+opencv-python==4.8.1.78
