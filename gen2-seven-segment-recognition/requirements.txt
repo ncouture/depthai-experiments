@@ -1,4 +1,4 @@
 depthai==2.19.1.0
-opencv-python==4.6.0.66
+opencv-python==4.8.1.78
 scipy==1.10.0
 blobconverter
